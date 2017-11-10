@@ -22,29 +22,29 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--TOADS--><!--Sección traducida al 99%-->
 			<scenes scene="toad1"> 
-				<p i="1">Nadie esta viendo\nesto. Son TAN deliciosos, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nesto sabe incluso mejor ahora!</p>
-				<p i="3">Oh no! Lo consiguió\nsu leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
+				<p i="1">Nadie esta viendo\esto. Son Tan deliciosos, hmmm...</p>
+				<p i="2">Mwa! Mm! Oh,\esto sabe incluso mejor ahora!</p>
+				<p i="3">Oh no! Lo consiguió\su leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">Él esta viéndome\n...tan tierno...</p>
-				<p i="1a">Vas a...\nhacer esto conmigo?</p>
-				<p i="2">Quiero\ntocarlo...</p>
-				<p i="2a">Aquí voy,\nmi cosita...</p>
-				<p i="2b">Hey, aquí hay\nalgo que necesito ver...♥</p>
- 				<p i="3">Esto no es algo\nsucio, tiene una seta, es comestible. ♥</p>
- 				<p i="3a">A Toadette no le\ngusta que haga esto...</p>
- 				<p i="3b">Puedo hacer eso\ncuando YO quiera...</p>
- 				<p i="4">Me siento tan llena,\nes una banana tierna.</p>
- 				<p i="4a">Me imagino una fila\nllena de mis queridos Toads desnudos, todos sirviéndome! ♥</p>
- 				<p i="4b">Me siento segura\ncon esta cosa en mi boca.</p>
- 				<p i="4c">Mi boca\nentra y sale de una manera que no puedo parar! ♥</p>
- 				<p i="4d">Si el micrófono de\nmadera fuera así, me gustaría hablar con mi reino todo el tiempo!</p>
- 				<p i="5">\nHmmmm! ♥</p>
- 				<p i="5a">\nDelicioso! Este era bueno!</p>
- 				<p i="5b">\nNo está tan delicioso pero quiero más después!</p>
- 				<p i="5c">\nNoooo este no es momento de parar!</p>
- 				<p i="5d">\nNecesito regresar a mis deberes, mi pequeña cosa.</p>
+				<p i="1">Él esta viéndome\...es tan tierno...</p>
+				<p i="1a">Vas a...\hacer esto conmigo?</p>
+				<p i="2">Quiero \tocarlo...</p>
+				<p i="2a">Aquí voy,\mi cosita...</p>
+				<p i="2b">Hey, aquí hay\algo que necesito ver...♥</p>
+ 				<p i="3">Esto no es algo\sucio, tiene una seta, es comestible. ♥</p>
+ 				<p i="3a">A Toadette no le\gusta que haga esto...</p>
+ 				<p i="3b">Puedo hacer eso\cuando yo quiera...</p>
+ 				<p i="4">Me siento tan llena,\es una banana tierna.</p>
+ 				<p i="4a">Me imagino una fila\llena de mis queridos Toads desnudos, todos sirviéndome! ♥</p>
+ 				<p i="4b">Me siento segura\con esta cosa en mi boca.</p>
+ 				<p i="4c">Mi boca\entra y sale de una manera que no puedo parar! ♥</p>
+ 				<p i="4d">Si el micrófono de\madera fuera así, me gustaría hablar con mi reino todo el tiempo!</p>
+ 				<p i="5">\Hmmmm! ♥</p>
+ 				<p i="5a">\Delicioso! Este era bueno!</p>
+ 				<p i="5b">\No está tan delicioso pero quiero más después!</p>
+ 				<p i="5c">\Noooo este no es momento de parar!</p>
+ 				<p i="5d">\Necesito regresar a mis deberes, mi pequeña cosa.</p>
 			</scenes>
 			<scenes scene="toad3">
 				<p i="1">No puedo creerlo\nEstoy haciendo esto! Pero, wow! Es tan suave, pero duro.</p>
