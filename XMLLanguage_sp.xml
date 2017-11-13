@@ -22,9 +22,9 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--TOADS--><!--Sección traducida al 99%-->
 			<scenes scene="toad1"> 
-				<p i="1">Nadie esta viendo\nesto. Son TAN deliciosos, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nesto sabe incluso mejor ahora!</p>
-				<p i="3">Oh no! Lo consiguió\nsu leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
+				<p i="1">Nadie esta viendo esto.\ Son Tan deliciosos, hmmm...</p>
+				<p i="2">Wa! Mm! Oh,\esto sabe incluso mejor ahora!</p>
+				<p i="3">Oh no! Lo consiguió\su leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
 			</scenes>
 			<scenes scene="toad2">
 				<p i="1">Él esta viéndome\n...tan tierno...</p>
